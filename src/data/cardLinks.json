@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Github",
+    "logo": "/github-brands.svg",
+    "href": "https://github.com/deemon-k"
+  },
+  {
+    "title": "Telegram",
+    "logo": "/telegram-brands.svg",
+    "href": "https://github.com/deemon-k"
+  },
+  {
+    "title": "LinkedIn",
+    "logo": "/linkedin-brands.svg",
+    "href": "https://github.com/deemon-k"
+  },
+  {
+    "title": "CV",
+    "logo": "/file-solid.svg",
+    "href": "https://github.com/deemon-k"
+  },
+  {
+    "title": "Source",
+    "logo": "/code-solid.svg",
+    "href": "https://github.com/deemon-k"
+  }
+]
