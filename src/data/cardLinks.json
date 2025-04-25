@@ -7,21 +7,21 @@
   {
     "title": "Telegram",
     "logo": "/telegram-brands.svg",
-    "href": "https://github.com/deemon-k"
+    "href": "https://t.me/deemon_k"
   },
   {
     "title": "LinkedIn",
     "logo": "/linkedin-brands.svg",
-    "href": "https://github.com/deemon-k"
+    "href": "https://www.linkedin.com/in/dmitry-krainiak-934b84199/"
   },
   {
     "title": "CV",
     "logo": "/file-solid.svg",
-    "href": "https://github.com/deemon-k"
+    "href": "/cv"
   },
   {
     "title": "Source",
     "logo": "/code-solid.svg",
-    "href": "https://github.com/deemon-k"
+    "href": "https://github.com/deemon-k/business-card"
   }
 ]
