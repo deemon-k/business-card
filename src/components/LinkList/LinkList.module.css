@@ -1,11 +1,18 @@
-.wrapper {
+.rowWrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
+.columnWrapper {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
 @media screen and (max-width: 430px) {
-  .wrapper {
+  .rowWrapper {
     display: flex;
     align-items: center;
     justify-content: space-between;

@@ -18,7 +18,7 @@ const BusinessCard = () => {
           </p>
         </div>
       </div>
-      <LinkList links={links} />
+      <LinkList links={links} variant="row" />
     </div>
   )
 }

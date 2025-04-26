@@ -1,0 +1,32 @@
+.contactBlock {
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  padding-bottom: 15px;
+  
+}
+
+.nameBlock {
+  width: 80%;
+}
+
+.linksBlock {
+  border-left: 1px solid lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 15px;
+}
+
+.textBlock {
+  padding: 15px 0;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  flex-direction: row;
+}
+
+.textBlock img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
