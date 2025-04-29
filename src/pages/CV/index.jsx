@@ -2,6 +2,7 @@ import Header from './components/Header'
 import Main from './components/Main'
 import Footer from './components/Footer'
 import style from './CV.module.css'
+import footerLinks from '../../data/footerLinks.json'
 
 const CV = () => {
   return (
@@ -9,7 +10,7 @@ const CV = () => {
       <div className={style.papper}>
         <Header />
         <Main />
-        <Footer />
+        <Footer links={footerLinks} />
       </div>
     </div>
   )

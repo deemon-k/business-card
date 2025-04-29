@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Backend Developer",
+    "company": "First company",
+    "years": "2020 - 2022",
+    "description": "Contributed to backend services and improved performance by 30%. Collaborated with cross-functional teams to build APIs."
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Second company",
+    "years": "2022 - 2024",
+    "description": "Worked on a microservices architecture, integrating several REST APIs. Participated in daily standups and sprint reviews."
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "Third company",
+    "years": "2019 - 2021",
+    "description": "Built responsive web interfaces with React. Optimized user experience and implemented accessibility improvements."
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Fourth company",
+    "years": "2021 - 2025",
+    "description": "Managed CI/CD pipelines and automated deployments. Improved system uptime and monitored infrastructure health."
+  },
+  {
+    "title": "QA Analyst",
+    "company": "Fifth company",
+    "years": "2018 - 2020",
+    "description": "Designed and executed test plans for major releases. Reduced post-release bugs by implementing automated testing suites."
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Sixth company",
+    "years": "2020 - 2023",
+    "description": "Analyzed large datasets to support business decisions. Created interactive dashboards and reported key insights."
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Seventh company",
+    "years": "2017 - 2019",
+    "description": "Worked across frontend and backend, delivering features end-to-end. Maintained legacy systems and transitioned to new tech."
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "Eighth company",
+    "years": "2023 - 2025",
+    "description": "Provided technical support to end-users. Resolved issues efficiently and contributed to IT documentation."
+  },
+  {
+    "title": "Project Manager",
+    "company": "Ninth company",
+    "years": "2021 - 2024",
+    "description": "Led software projects from planning to delivery. Coordinated teams and maintained communication with stakeholders."
+  },
+  {
+    "title": "UX Designer",
+    "company": "Tenth company",
+    "years": "2019 - 2022",
+    "description": "Researched user behavior and designed wireframes. Delivered user-centric designs and collaborated with developers."
+  }
+]

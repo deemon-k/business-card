@@ -2,19 +2,20 @@
   border-bottom: 1px solid lightgray;
   display: flex;
   padding-bottom: 15px;
-  
 }
 
 .nameBlock {
-  width: 80%;
+  width: 75%;
 }
 
 .linksBlock {
+  width: 25%;
   border-left: 1px solid lightgray;
   display: flex;
-  justify-content: center;
   align-items: center;
   padding-left: 15px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .textBlock {
@@ -22,6 +23,7 @@
   border-bottom: 1px solid lightgray;
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 
 .textBlock img {
