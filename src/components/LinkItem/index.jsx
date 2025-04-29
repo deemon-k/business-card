@@ -1,10 +1,11 @@
-import style from './LinkItem.module.css'
-
 const LinkItem = ({ link }) => {
   return (
-    <a className={style.wrapper} href={link.href}>
-      <div className={style.link}>
-        <img className={style.logo} src={link.logo} />
+    <a
+      className="flex items-center justify-center m-1 no-underline hover:text-deemon"
+      href={link.href}
+    >
+      <div className="flex items-center justify-center m-1">
+        <img className="w-4 h-4 mr-1" src={link.logo} />
         {link.title}
       </div>
     </a>

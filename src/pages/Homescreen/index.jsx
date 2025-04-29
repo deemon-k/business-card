@@ -1,9 +1,9 @@
 import BusinessCard from './components/BusinessCard/'
-import style from './Homescreen.module.css'
+// import style from './Homescreen.module.css'
 
 const Homescreen = () => {
   return (
-    <div className={style.wrapper}>
+    <div className="flex items-center justify-center sm:h-screen">
       <BusinessCard />
     </div>
   )
