@@ -1,9 +1,8 @@
-import style from './Footer.module.css'
-import LinkList from '../../../../components/LinkList'
+import LinkList from '../../../components/LinkList.jsx'
 
 const Footer = ({ links }) => {
   return (
-    <div className={style.wrapper}>
+    <div className="flex justify-center items-center pt-4">
       <LinkList links={links} variant="row" />
     </div>
   )

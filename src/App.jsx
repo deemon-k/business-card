@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import CV from './pages/CV'
-import Homescreen from './pages/Homescreen'
+import CV from './pages/CV/CV.jsx'
+import Homescreen from './pages/Homescreen/Homescreen.jsx'
 
 const App = () => {
   return (

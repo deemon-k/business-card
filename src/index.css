@@ -1,19 +1,21 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
-@theme {
-  --color-deemon: #2875a9
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-5xl font-black tracking-wider text-deemon;
+  }
+  
+  h2 {
+    @apply text-deemon font-bold uppercase text-2xl;
+  }
+
+  h4 {
+    @apply text-lg font-bold;
+  }
 }
 
-/* body {
-  margin: 0;
-  font-family:
-    -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
-    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-} */
-
-/* code {
-  font-family:
-    source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
-} */
+@theme {
+  --color-deemon: #2875a9;
+}

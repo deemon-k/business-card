@@ -1,5 +1,4 @@
-import BusinessCard from './components/BusinessCard/'
-// import style from './Homescreen.module.css'
+import BusinessCard from './components/BusinessCard.jsx'
 
 const Homescreen = () => {
   return (
