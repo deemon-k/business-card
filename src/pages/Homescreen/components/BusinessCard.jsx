@@ -2,6 +2,7 @@ import profilePhoto from '/cult.gif'
 import LinkList from '../../../components/LinkList.jsx'
 import links from '../../../data/cardLinks.json'
 import TypingText from './TypingText.jsx'
+import Typer from './Typer.jsx'
 
 const BusinessCard = () => {
   return (
@@ -15,7 +16,10 @@ const BusinessCard = () => {
         <div>
           <h2>Dmitry Krainiak</h2>
           <p className="my-4">
-            JavaScript developer interesting in <TypingText text="123456789" />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Perspiciatis voluptatem quasi nam, libero ut debitis vel error
+            beatae vero neque, voluptatum perferendis et, deleniti atque quo
+            alias nostrum facilis recusandae!
           </p>
         </div>
       </div>
