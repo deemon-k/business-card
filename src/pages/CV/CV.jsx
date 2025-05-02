@@ -6,7 +6,7 @@ import footerLinks from '../../data/footerLinks.json'
 const CV = () => {
   return (
     <div className="flex justify-center my-12">
-      <div className="w-5xl p-12 shadow-2xl rounded-xs">
+      <div className="max-sm:w-4/5 sm:w-5xl max-sm:p-4 sm:p-12 shadow-2xl rounded-xs">
         <Header />
         <Main />
         <Footer links={footerLinks} />

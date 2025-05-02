@@ -5,17 +5,21 @@ import links from '../../../data/cvLinks.json'
 const Header = () => {
   return (
     <>
-      <div className="border-b border-gray-200 flex pb-4">
-        <div className="w-3/4">
+      <div className="flex max-sm:flex-col max-sm:items-center border-b border-gray-200 pb-4">
+        <div className="sm:w-3/4">
           <h1>DMITRY KRAINIAK</h1>
           <p className="font-light">Back-end developer</p>
         </div>
-        <div className="w-1/4 border-l border-gray-200 flex items-center pl-4">
+        <div className=" sm:w-1/4 sm:border-l border-gray-200 flex items-center sm:pl-4">
           <Linklist links={links} variant="column" />
         </div>
       </div>
-      <div className="py-4 border-b border-gray-200 flex row items-center">
-        <img className="w-40 h-40 mr-4 rounded-full" src={profilePhoto} alt="" />
+      <div className="flex max-sm:flex-col py-4 border-b border-gray-200  items-center">
+        <img
+          className="w-40 h-40 max-sm:mb-4 sm:mr-4 rounded-full"
+          src={profilePhoto}
+          alt=""
+        />
         <p>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi
           magnam cumque, debitis sit ex amet eos, veniam aliquid fugit non ullam
