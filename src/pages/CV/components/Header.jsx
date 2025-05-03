@@ -1,4 +1,4 @@
-import profilePhoto from '/cult.gif'
+import profilePhoto from '/profile-img.png'
 import Linklist from '../../../components/LinkList.jsx'
 import links from '../../../data/cvLinks.json'
 
@@ -21,13 +21,7 @@ const Header = () => {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi
-          magnam cumque, debitis sit ex amet eos, veniam aliquid fugit non ullam
-          quisquam recusandae voluptate voluptas nobis esse aut. Consectetur,
-          iste. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et
-          fugit modi qui nisi! Porro, neque eligendi placeat praesentium enim
-          nam eaque? Veniam iusto praesentium neque qui! Nemo eligendi aperiam
-          perferendis!
+        I am JavaScript developer. Selflearned JavaScript and React. Obsessed with innovative information technologies. Last year I worked a lot with Telegraf.js. Teached basics of DevOps on a courses like jenkins, ansible, terraform.
         </p>
       </div>
     </>

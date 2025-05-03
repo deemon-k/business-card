@@ -1,18 +1,10 @@
-import profilePhoto from '/cult.gif'
+import profilePhoto from '/profile-img.png'
 import LinkList from '../../../components/LinkList.jsx'
 import links from '../../../data/cardLinks.json'
 import TypeWritter from './TypeWriter.jsx'
 import interests from '../../../data/interests.json'
 
 const BusinessCard = () => {
-  // let type = [
-  //   'Pneumonoultramicroscopicsilicovolcanoconiosis',
-  //   'Supercalifragilisticexpialidocious',
-  //   'Hippopotomonstrosesquippedaliophobia',
-  //   'Antidisestablishmentarianism',
-  //   'Floccinaucinihilipilification',
-  //   'Honorificabilitudinitatibus',
-  // ]
   return (
     <div className="container mx-auto shadow-2xl w-4/5 p-4 rounded-xs my-10 sm:w-2xl">
       <div className="flex items-center flex-col sm:flex-row">
