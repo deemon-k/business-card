@@ -15,8 +15,8 @@ const BusinessCard = () => {
         />
         <div className="w-full">
           <h2 className="flex justify-center">Dmitry Krainiak</h2>
-          <p className="my-4">
-            JavaScript developer interesting in{' '}
+          <p className="my-4 h-10">
+            JavaScript developer interesting in<br />
             <TypeWritter words={interests} />
           </p>
         </div>
