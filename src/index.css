@@ -6,7 +6,7 @@
   h1 {
     @apply text-5xl font-black tracking-wider text-deemon;
   }
-  
+
   h2 {
     @apply text-deemon font-bold uppercase text-2xl;
   }

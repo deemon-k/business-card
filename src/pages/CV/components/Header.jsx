@@ -21,7 +21,10 @@ const Header = () => {
           alt=""
         />
         <p>
-        I am JavaScript developer. Selflearned JavaScript and React. Obsessed with innovative information technologies. Last year I worked a lot with Telegraf.js. Teached basics of DevOps on a courses like jenkins, ansible, terraform.
+          I am JavaScript developer. Selflearned JavaScript and React. Obsessed
+          with innovative information technologies. Last year I worked a lot
+          with Telegraf.js. Teached basics of DevOps on a courses like jenkins,
+          ansible, terraform.
         </p>
       </div>
     </>
