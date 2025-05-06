@@ -6,7 +6,7 @@ const LinkList = ({ links, variant }) => {
 
   return (
     <div
-      className={`flex justify-between flex-col ${
+      className={`flex justify-center flex-col ${
         variant == 'row' ? row : col
       }`}
     >

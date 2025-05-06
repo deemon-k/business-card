@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@custom-variant dark (&:where(.dark, .dark *));
 
 @tailwind utilities;
 
@@ -18,4 +19,6 @@
 
 @theme {
   --color-deemon: #2875a9;
+  --color-dark-bg: #23272F;
+  --color-dark-text: #58C4DC;
 }
