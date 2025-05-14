@@ -11,7 +11,7 @@ import interests from '../../../data/interests.json'
 const Main = () => {
   return (
     <div className="flex max-sm:flex-col border-b border-gray-200 dark:border-gray-700 py-4">
-      <div className="sm:w-3/4 pr-4">
+      <div className="max-sm:border-b border-gray-200 dark:border-gray-700 sm:w-3/4 pr-4">
         <h2>WORK EXPERIENCE</h2>
         <ExJobsList jobs={jobs} />
       </div>

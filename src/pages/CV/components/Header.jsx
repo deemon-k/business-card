@@ -10,7 +10,7 @@ const Header = () => {
           <h1>DMITRY KRAINIAK</h1>
           <p className="font-light dark:text-gray-300">JavaScript developer</p>
         </div>
-        <div className=" sm:w-1/4 sm:border-l border-gray-200 dark:border-gray-700 flex items-start sm:pl-4">
+        <div className="w-full sm:w-1/4 sm:border-l border-gray-200 dark:border-gray-700 flex items-start sm:pl-4">
           <Linklist links={links} variant="column" />
         </div>
       </div>

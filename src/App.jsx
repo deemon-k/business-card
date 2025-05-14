@@ -9,10 +9,6 @@ const App = () => {
   // const preference = window.matchMedia('(prefers-color-scheme: dark)').matches
   const [theme, setTheme] = useState(() => localStorage.getItem('theme') || '')
 
-  // useEffect(() => {
-  //   preference && setTheme('dark')
-  // }, [])
-
   useEffect(() => {
     localStorage.setItem('theme', theme)
   }, [theme])
