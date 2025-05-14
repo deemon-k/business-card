@@ -32,7 +32,7 @@ const useTypewriter = ({ words }) => {
 
 const TypeWritter = ({ words }) => {
   const displayText = useTypewriter({ words })
-  return <b>{displayText}</b>
+  return <b className="dark:text-white font-mono">{displayText}</b>
 }
 
 export default TypeWritter
