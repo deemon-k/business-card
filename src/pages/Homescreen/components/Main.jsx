@@ -7,7 +7,7 @@ const Main = () => {
     <div className="flex max-sm:justify-center flex-col w-full sm:max-w-7xl sm:flex-row h-dvh">
       <div className="flex sm:justify-end items-center sm:w-1/2 max-sm:h-3/4">
         <img
-          className="w-70 h-70 m-5 rounded-full"
+          className="sm:w-70 sm:h-70 sm:m-5 sm:rounded-full"
           src={profilePhoto}
           alt="profilePhoto"
         />
