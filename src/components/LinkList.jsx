@@ -2,7 +2,7 @@ import LinkItem from './LinkItem.jsx'
 
 const LinkList = ({ links, variant }) => {
   const row = 'items-center flex-row max-sm:hidden'
-  const col = 'items-start sm:text-xs '
+  const col = 'items-start sm:text-xs'
 
   return (
     <div
