@@ -1,9 +1,15 @@
 [
   {
-    "title": "JavaScript"
+    "title": "TypeScript"
   },
   {
     "title": "React"
+  },
+  {
+    "title": "Zustand"
+  },
+  {
+    "title": "Tailwind"
   },
   {
     "title": "Docker"
@@ -12,10 +18,10 @@
     "title": "Express"
   },
   {
-    "title": "Postgress"
+    "title": "Postgresql"
   },
   {
-    "title": "Github actions"
+    "title": "MongoDB"
   },
   {
     "title": "AWS"
@@ -25,9 +31,6 @@
   },
   {
     "title": "Telegraf.js"
-  },
-  {
-    "title": "Tailwind"
   },
   {
     "title": "bash"
